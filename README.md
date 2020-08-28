@@ -1,5 +1,5 @@
 # Hello 👋 👩‍💻
-Hi I'm Jane! I'm a software engineer who is passionare about HTML / CSS Design and Front End Development.
+Hi I'm Jane! I'm a software engineer who is passionate about HTML / CSS Design and Front End Development.
 
 Learn more about me 🌎:
 
